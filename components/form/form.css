@@ -1,0 +1,9 @@
+.form {
+  margin-top: 6rem;
+  margin-bottom: 5rem;
+  padding: 2rem;
+  background-color: var(--background);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}

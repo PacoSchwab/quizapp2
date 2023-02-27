@@ -19,7 +19,7 @@ command to create a new project based on a template:
   - a `profile.html` with personal information and settings
 - The structure of styling follows [BEM](http://getbem.com/introduction/); this is why the CSS files
   are organized according to their corresponding component.
-  
+
 Alternatively you can keep working with the Quiz App you built in Recap Project 1.
 
 ## Tasks
